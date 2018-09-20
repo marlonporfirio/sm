@@ -1,0 +1,11 @@
+﻿1 - Acessar o site do github e encontrar algum projeto desejado e fazer um FORK(vai criar uma repositório na sua conta do gihub com os arquivos do projeto original
+2 - Ir a área de trabalho do seu PC e abrir o Git Bash
+3 - executar o comando git clone + link do projeto original
+esse comando vai baixar os arquivos do projeto original na sua máquina, geralmente já em uma pasta
+4 - abrir um editor de textos e realizar as mudanças desejadas
+5 - executar os comandos git add . e git commit - m "Comentários"
+o comando git add vai rastrear as alterações e o commit confirmar a alterações na pasta local do seu pc
+6 - agora é necessário enviar as mudanças ao GitHub
+executar o comando git push origin mastes no Git Bash
+esse comando vai enviar ao seu Fork as mudanças 
+7 - para atualizar no projeto original clicar no GitHub New Pull Resquest

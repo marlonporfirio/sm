@@ -1,0 +1,11 @@
+﻿Abrir o Git Bash na área de trabalho
+executar o comando git remote -v
+executar o comando git remote upstream + link do projeto original 
+os passos acima são necessário em função de um projeto open source em algum momento vai ser alterados no fork original pelos colaboradores e assim
+essa é uma maneira de vocÊ baixar para sua máquina a mudanças realizadas 
+executar o comando git fetch upstream 
+o comando acima vai buscar as mudanças
+para baixar na sua pasta forkada
+executar o comando git merge upstream/master
+
+create marlonporfirio
